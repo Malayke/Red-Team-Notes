@@ -1,0 +1,6 @@
+[submodule "Red-Team-Infrastructure-Wiki"]
+	path = Red-Team-Infrastructure-Wiki
+	url = https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki.git
+[submodule "Awesome-Red-Teaming"]
+	path = Awesome-Red-Teaming
+	url = https://github.com/yeyintminthuhtut/Awesome-Red-Teaming.git
