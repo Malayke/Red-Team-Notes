@@ -4,9 +4,9 @@
 The Red Team’s mission is to emulate the tactics, techniques, and procedures (TTPs) by adversaries.  The goals are to give real world and hard facts on how a company will respond, find gaps within a security program, identify skill gaps within employees, and ultimately increase their security posture.
 > Kim, Peter. The Hacker Playbook 3: Practical Guide To Penetration Testing . Secure Planet.
 
-我太不恰当的翻译和补充：
+我不太恰当的翻译和补充：
 
-红蓝对抗是军事用语，红队作为对抗者其任务是模拟 [战术、技术和过程（TTPs）](https://blog.csdn.net/chenyulancn/article/details/79065169)。 使用真实世界的攻击手法（APT）对目标发起攻击，找出对方在安全防护上的缺陷，找出员工的技术缺陷，并最终提高他们的安全防护状况。
+红蓝对抗是军事用语，红队作为对抗者其任务是模拟 [战术、技术和过程(TTPs)](https://blog.csdn.net/chenyulancn/article/details/79065169)。 使用真实世界的攻击手法（APT）对目标发起攻击，找出对方在安全防护上的缺陷，找出员工的技术缺陷，并最终提高他们的安全防护状况。
 
 ------
 
@@ -29,9 +29,10 @@ Challenge the system…  Provide real data to prove security gaps.
 
 > Kim, Peter. The Hacker Playbook 3: Practical Guide To Penetration Testing . Secure Planet. Kindle Edition. 
 
-我太不恰当的翻译和补充：
+我不太恰当的翻译和补充：
 
 红队的核心关注点：
+
 * 发现安全防护上的漏洞，不是安全漏洞
 * 模拟真实世界正在发生的攻击手法，也就是APT
 * 生活在一个不断被红队感染的世界里
